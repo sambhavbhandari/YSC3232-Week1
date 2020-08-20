@@ -4,4 +4,4 @@ jdk:
   - oraclejdk11
 
 script:
-  make run
+  make
